@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently doing a degree in "System Analysis and Development" and improving my skills in Frontend web development.
 
 <div align="center">
   <a href="https://github.com/TamirisCss">
