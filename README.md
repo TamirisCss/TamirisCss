@@ -9,8 +9,13 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--     <img src="https://img.shields.io/badge/BEGINNER-blue" height="25" margin-top="10px"> -->
+<!--   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+<!--   <img src="https://img.shields.io/badge/BEGINNER-blue" height="20" margin-top="10px"> -->
+    <br/>
+    <br/>
+  <img src="https://img.shields.io/badge/REACT-Beginner-41B883" height="25">
+  
+  
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/f8/f6/5ff8f681618f6f2e3b39deda92ad8c90.jpg">
 </div>
   
