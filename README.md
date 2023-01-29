@@ -1,10 +1,17 @@
-<h2> 🚀  &nbsp;Tech Stack</h2>
+<h3> 💻 &nbsp;Tech Stack</h3>
 <!-- <h3>💻 &nbsp;Front-end:</h3> -->
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+<h3> 🚀  &nbsp;Currently Learning</h3>
+
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+
 
 <!--   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/f8/f6/5ff8f681618f6f2e3b39deda92ad8c90.jpg"> -->
 
