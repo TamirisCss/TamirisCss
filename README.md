@@ -11,6 +11,7 @@
 
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
 
 <!--   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/f8/f6/5ff8f681618f6f2e3b39deda92ad8c90.jpg"> -->
