@@ -3,16 +3,18 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
 <h3> 🚀  &nbsp;Currently Learning</h3>
 
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 
 <!--   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/f8/f6/5ff8f681618f6f2e3b39deda92ad8c90.jpg"> -->
