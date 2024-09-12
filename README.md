@@ -6,6 +6,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
 <!--<h3> 🚀  &nbsp;Currently Learning</h3>
