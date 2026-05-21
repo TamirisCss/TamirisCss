@@ -31,8 +31,3 @@
 - 🏋️‍♂️ Enthusiastic about calisthenics and achieving fitness goals.
 - 🎮 Enjoying Fall Guys and diving into the anime world.
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenQ3NWZrazR2dXA1OTk1MG9kNnFxM2QzMXV5Z3ZjNXhwYTd1cDBhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfphdlqIxiigSXYmQU/giphy.gif" width="140" alt="Coding GIF" />
-
-Feel free to reach out and connect! 😊
-<br>
-<a href="https://www.linkedin.com/in/tamiris-cristine/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tamiris.css@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
